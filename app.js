@@ -1,7 +1,8 @@
 const app = Vue.createApp({
   data() {
     return {
-      courseGoal: "finish course before internship starts",
+      courseGoal: "finish the course",
+      vueLink: "https://vuejs.org/",
     };
   },
 });
